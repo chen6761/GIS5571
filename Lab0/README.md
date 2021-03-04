@@ -1,0 +1,1 @@
+# In the lab, I will do the same analysis in three different environments, ArcPro, Jupyter Notebooks in ArcPro, and Jupyter Notebooks in ArcOnline to discuss the difference between them. Each environment has its advantage in the analysis.

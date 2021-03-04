@@ -1,0 +1,1 @@
+# I compare and contrast the conceptual models from three different APIs. There are Minnesota Geospatial Commons, Google Places, and North Dakota Agricultural Weather Network (NDAWN). Then, I write a code in Jupyter Notebooks for each API to catch their data programmatically.  
